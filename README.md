@@ -1,5 +1,12 @@
 # Třídění souborů dle přípony
+### Python
+Po zadání cesty ke složce se soubory je roztřídí do složek dle přípon, pokud název složky neexistuje vytvoří novou složku 
 
-Po zadání cesty ke složce se soubory roztřídí do složek podle přípon.
+V přípravě:
+- uživatelské rozhraní Tkinter
+ 
 
-## Python
+
+
+
+
